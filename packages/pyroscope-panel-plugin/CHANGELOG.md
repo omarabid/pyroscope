@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.2.13 (2022-03-30)
+
+
+### Bug Fixes
+
+* disable pyroscope logo ([#890](https://github.com/omarabid/pyroscope/issues/890)) ([0477cff](https://github.com/omarabid/pyroscope/commit/0477cff8565406c330b48c819c0ed16a69653cee))
+* **panel-plugin:** don't load CSS file since it's loaded using css modules ([#891](https://github.com/omarabid/pyroscope/issues/891)) ([183eaa0](https://github.com/omarabid/pyroscope/commit/183eaa0e0e719d4f1c408195a2f2b5912b5071d3))
+
+
+
+
+
 ## [1.2.12](https://github.com/pyroscope-io/pyroscope/compare/@pyroscope/panel-plugin@1.2.11...@pyroscope/panel-plugin@1.2.12) (2022-03-25)
 
 **Note:** Version bump only for package @pyroscope/panel-plugin
