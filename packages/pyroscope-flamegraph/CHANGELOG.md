@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0 (2022-03-30)
+
+
+### Bug Fixes
+
+* disable pyroscope logo ([#890](https://github.com/omarabid/pyroscope/issues/890)) ([0477cff](https://github.com/omarabid/pyroscope/commit/0477cff8565406c330b48c819c0ed16a69653cee))
+* **flamegraph:** clicking on anywhere on a row selects that row ([#969](https://github.com/omarabid/pyroscope/issues/969)) ([ee84788](https://github.com/omarabid/pyroscope/commit/ee8478812743e1381818e769706df83506ed6f53))
+* **flamegraph:** only show diff options when in diff mode ([#972](https://github.com/omarabid/pyroscope/issues/972)) ([625d4de](https://github.com/omarabid/pyroscope/commit/625d4de340bc576f72b42f9db26605d02bc86c51))
+* **flamegraph:** rerender when 'profile' changes ([#931](https://github.com/omarabid/pyroscope/issues/931)) ([527ae29](https://github.com/omarabid/pyroscope/commit/527ae29222625ec6c74cda270f2add72027ca1e3))
+
+
+### Features
+
+* **flamegraph:** publish FlamegraphRenderer for nodejs ([#944](https://github.com/omarabid/pyroscope/issues/944)) ([c2a5631](https://github.com/omarabid/pyroscope/commit/c2a56310e4b36bc6823d5f9debe6e7ac07c6b877))
+* **flamegraph:** support a new profile field ([#929](https://github.com/omarabid/pyroscope/issues/929)) ([95abe2a](https://github.com/omarabid/pyroscope/commit/95abe2ae3dc253a25a03eb19a9378d13b85c8f08))
+
+
+
+
+
 ## [0.2.3](https://github.com/pyroscope-io/pyroscope/compare/@pyroscope/flamegraph@0.2.2...@pyroscope/flamegraph@0.2.3) (2022-03-25)
 
 **Note:** Version bump only for package @pyroscope/flamegraph
